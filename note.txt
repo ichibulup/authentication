@@ -1,3 +1,12 @@
 https://www.youtube.com/watch?v=OJU0L9D-Zdo
 
 https://dotnetfullstackdev.medium.com/role-based-authorization-and-authentication-in-react-with-auth-handlers-specific-role-based-and-466c4483a2fb
+
+https://www.youtube.com/@PedroTechnologies
+
+https://www.youtube.com/watch?v=OJU0L9D-Zdo
+
+https://www.youtube.com/watch?v=TOZsHhxnFXo
+
+nên xử lý ra sao với dự án react-vite node-express sequelize mysql khi đăng nhập phân quyền người dùng, mỗi loại tài khoản có routes riêng và để trong app.js. khi đăng nhập việc đầu tiên làm là tạo token người dùng, sau đó gọi hàm check để lấy role người dùng, từ role đó trả về cho app.js để xác định đúng routes của loại người dùng đó, rồi quay về code đăng ký navigate đến trang của loại người dùng cụ thể. ví dụ user sẽ truy cập /user và admin truy cập /admin, có 1 sharedroute cho phép người udngf chưa đăng nhập có thể truy cập.
+
