@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=OJU0L9D-Zdo
+
+https://dotnetfullstackdev.medium.com/role-based-authorization-and-authentication-in-react-with-auth-handlers-specific-role-based-and-466c4483a2fb
